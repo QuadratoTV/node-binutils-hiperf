@@ -1,0 +1,14 @@
+{
+    "name": "binutils-hiperf",
+    "version": "0.1.0",
+    "author": "Orfeas Zafeiris <orfeaz@gmail.com>",
+    "description": "A high performance version of node-binutils.",
+    "main": "./binutils-hiperf.js",
+    "engines": {
+        "node": ">=0.10"
+    },
+    "repository": {
+        "type" : "git",
+        "url" : "git://github.com/OrfeasZ/node-binutils-hiperf.git"
+    }
+}
