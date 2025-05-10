@@ -1,7 +1,7 @@
 binutils-hiperf
 ==============================================================
 
-This is a fork of the high performance version of OrfeasZ's package [node-binutils-hiperf](https://github.com/OrfeasZ/node-binutils-hiperf).
+This is a fork of the high performance version of OrfeasZ's package [node-binutils-hiperf](https://github.com/OrfeasZ/node-binutils-hiperf) with added typescript definitions.
 
 To install using npm open your terminal (or command line), make sure you're in your application directory and execute the following command:
 
