@@ -1,14 +1,25 @@
 {
-    "name": "binutils-hiperf",
+    "name": "@quadrato/binutils-hiperf",
     "version": "0.1.0",
     "author": "Orfeas Zafeiris <orfeaz@gmail.com>",
+    "contributors": [
+        {
+            "name": "Noah Schneider",
+            "email": "noah.schneider@pitpath.net",
+            "url": "https://pitpath.net"
+        }
+    ],
     "description": "A high performance version of node-binutils.",
     "main": "./binutils-hiperf.js",
+    "types": "./binutils-hiperf.d.ts",
     "engines": {
         "node": ">=0.10"
     },
     "repository": {
-        "type" : "git",
-        "url" : "git://github.com/OrfeasZ/node-binutils-hiperf.git"
+        "type": "git",
+        "url": "git://github.com/OrfeasZ/node-binutils-hiperf.git"
+    },
+    "devDependencies": {
+        "@types/node": "^22.15.17"
     }
 }
