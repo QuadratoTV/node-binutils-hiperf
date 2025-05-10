@@ -9,7 +9,7 @@
             "url": "https://pitpath.net"
         }
     ],
-    "description": "A high performance version of node-binutils.",
+    "description": "A high performance version of node-binutils with typescript support.",
     "main": "./binutils-hiperf.js",
     "types": "./binutils-hiperf.d.ts",
     "engines": {
@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/OrfeasZ/node-binutils-hiperf.git"
+        "url": "git://github.com/QuadratoTV/node-binutils-hiperf.git"
     },
     "devDependencies": {
         "@types/node": "^22.15.17"
