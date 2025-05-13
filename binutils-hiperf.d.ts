@@ -1,4 +1,4 @@
-declare module 'binutils-hiperf' {
+declare module '@quadrato/binutils-hiperf' {
     type Endianness = 'little' | 'big';
     type Encoding = 'ascii' | 'utf8' | 'utf16le' | 'ucs2' | 'base64' | 'binary' | 'hex';
     type BufferInput = Buffer | Array<number> | string;
